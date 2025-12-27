@@ -1,2 +1,2 @@
-# flux
+# Flux
 Scalable server engine for Minecraft
